@@ -2612,7 +2612,7 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				color: yellow;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -2988,7 +2988,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #ccc901;
+			background-color: #0072bb;
 			color: #d3d4e4;
 		}
 
@@ -3359,7 +3359,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #005fad;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3419,7 +3419,7 @@ input, select, textarea {
 			position: absolute;
 			right: 0;
 			top: 0;
-			vertical-align: middle;
+			
 			width: 7em;
 		}
 
