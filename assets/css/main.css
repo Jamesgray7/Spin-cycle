@@ -33,6 +33,14 @@ body {
 	line-height: 1;
 }
 
+.logomark {
+	margin: 20px;
+    width: 100px;
+    height: 85px;
+    line-height: 115px;
+    text-align: center;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -2817,7 +2825,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #8b8b07;
+			background-color: #0072bb;
 			color: #c8ece9;
 		}
 
@@ -2976,11 +2984,11 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #0072bb;
+			background-color: slategrey;
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #ccc901;
 			color: #d3d4e4;
 		}
 
@@ -3653,7 +3661,7 @@ input, select, textarea {
 			border: none;
 			bottom: 0;
 			color: inherit;
-			font-size: 0.8em;
+			font-size: 0.5em;
 			height: 8.5em;
 			left: 50%;
 			letter-spacing: 0.225em;
